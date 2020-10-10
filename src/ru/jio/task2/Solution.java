@@ -1,4 +1,4 @@
-package ru.jio.task1;
+package ru.jio.task2;
 
 import java.io.*;
 
@@ -13,11 +13,11 @@ public class Solution {
 		//input second number
 		System.out.println("b");
 		double b = Double.parseDouble(reader.readLine());
-		//input third number
+		//input second number
 		System.out.println("c");
 		double c = Double.parseDouble(reader.readLine());
 		//calculate expression
-		double z = ((a-3.0)*b/2.0)+c; 
+		double z = (b + Math.sqrt(b*b+4*a*c))/(2*a)-Math.pow(a,3)*c+Math.pow(b,-2); 
 		//output solution
 		System.out.println(z);
 		reader.close();
