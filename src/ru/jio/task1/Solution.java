@@ -20,6 +20,7 @@ public class Solution {
 		double z = ((a-3.0)*b/2.0)+c; 
 		//output solution
 		System.out.println(z);
+		reader.close();
 	}
 
 }
