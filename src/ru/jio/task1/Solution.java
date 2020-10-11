@@ -2,6 +2,9 @@ package ru.jio.task1;
 
 import java.io.*;
 
+
+//Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
+
 public class Solution {
 
 	public static void main(String[] args) throws IOException{

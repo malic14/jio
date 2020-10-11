@@ -2,6 +2,12 @@ package ru.jio.task2;
 
 import java.io.*;
 
+//Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+//       __________
+// b + \/b2 + 4*ac
+//----------------- - a3c + b-2
+// 		2*a
+
 public class Solution {
 
 	public static void main(String[] args) throws NumberFormatException, IOException{

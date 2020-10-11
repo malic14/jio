@@ -2,6 +2,16 @@ package ru.jio.task6;
 
 import java.util.*;
 
+// Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у)
+// принадлежит закрашенной области, и false — в противном случае: 
+// 		  |
+//		**|**
+//      **|**
+//		**|**
+// --------------->
+//    ****|****
+//    ****|****
+
 public class Range {
 
 	public static void main(String[] args) {
@@ -47,11 +57,13 @@ public class Range {
 		b[501][497] = true;
 		b[502][497] = true;
 		b[503][497] = true;
+		//create shoot
 		Scanner sc = new Scanner(System.in);
 		System.out.print(">> ");
 		int x = sc.nextInt()+499;
 		System.out.print(">> ");
 		int y = sc.nextInt()+499;
+		//output result
 		System.out.print(b[x][y]);
 		sc.close();
 	}
