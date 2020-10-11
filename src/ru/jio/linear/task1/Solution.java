@@ -3,7 +3,7 @@ package ru.jio.linear.task1;
 import java.io.*;
 
 
-//Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
+ // РќР°Р№РґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ С„СѓРЅРєС†РёРё: z = ( (a вЂ“ 3 ) * b / 2) + c.
 
 public class Solution {
 
