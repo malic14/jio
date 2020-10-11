@@ -1,4 +1,4 @@
-package ru.jio.task6;
+package ru.jio.linear.task6;
 
 import java.util.*;
 

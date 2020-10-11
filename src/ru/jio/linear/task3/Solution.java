@@ -1,4 +1,4 @@
-package ru.jio.task3;
+package ru.jio.linear.task3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package ru.jio.task2;
+package ru.jio.linear.task2;
 
 import java.io.*;
 
