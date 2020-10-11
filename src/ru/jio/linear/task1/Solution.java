@@ -2,12 +2,7 @@ package ru.jio.linear.task1;
 
 import java.io.*;
 
-
-<<<<<<< HEAD
 // Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
-=======
- // Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
->>>>>>> branch 'master' of git@github.com:malic14/jio.git
 
 public class Solution {
 
